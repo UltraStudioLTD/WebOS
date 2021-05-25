@@ -1,2 +1,2 @@
 # WebOS
-Web-based Mobile OS (Operating System)
+Web-based OS (Operating System)
